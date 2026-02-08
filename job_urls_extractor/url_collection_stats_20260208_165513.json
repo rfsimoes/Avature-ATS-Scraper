@@ -1,0 +1,20 @@
+{
+  "total_urls": 608,
+  "total_companies": 1,
+  "timestamp": "2026-02-08T16:55:13.598030",
+  "companies": {
+    "westrockta": {
+      "urls_found": 608,
+      "successes": 608,
+      "retries": 0,
+      "failures": 0,
+      "time_seconds": 346.88,
+      "urls_per_second": 1.75,
+      "strategy_used": "html_only",
+      "rss_available": true,
+      "files_saved": [
+        "success_westrockta_20260208_165513.jsonl"
+      ]
+    }
+  }
+}

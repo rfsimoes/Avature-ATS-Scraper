@@ -1,0 +1,80 @@
+{
+  "extraction_metadata": {
+    "timestamp": "2026-02-08T18:10:40.942804",
+    "input_source": "urls_all_companies_20260202_011851.txt",
+    "extractor_settings": {
+      "max_workers": 5,
+      "timeout": 25,
+      "max_retries": 3,
+      "request_delay": 0.2
+    },
+    "duration_seconds": 2873.7866880893707
+  },
+  "summary": {
+    "total_processed": 37791,
+    "successful_extractions": 1721,
+    "failed_extractions": 36070,
+    "success_rate_percent": 4.55,
+    "throughput_per_second": 13.15
+  },
+  "field_analysis": {
+    "title": {
+      "extracted": 1721,
+      "missing": 0,
+      "extraction_rate": 100.0
+    },
+    "location": {
+      "extracted": 241,
+      "missing": 1480,
+      "extraction_rate": 14.0
+    },
+    "description": {
+      "extracted": 1182,
+      "missing": 539,
+      "extraction_rate": 68.7
+    },
+    "date_posted": {
+      "extracted": 43,
+      "missing": 1678,
+      "extraction_rate": 2.5
+    },
+    "department": {
+      "extracted": 0,
+      "missing": 1721,
+      "extraction_rate": 0.0
+    },
+    "employment_type": {
+      "extracted": 0,
+      "missing": 1721,
+      "extraction_rate": 0.0
+    },
+    "application_url": {
+      "extracted": 554,
+      "missing": 1167,
+      "extraction_rate": 32.2
+    }
+  },
+  "failure_breakdown": {
+    "total": 36070,
+    "by_type": {
+      "http_error": 35483,
+      "access_forbidden": 584,
+      "missing_title": 3
+    },
+    "retryable_count": 0,
+    "permanent_count": 36070
+  },
+  "company_breakdown": {
+    "ally": {
+      "successful": 1721,
+      "failed": 36070,
+      "total": 37791,
+      "success_rate": 4.6
+    }
+  },
+  "performance_metrics": {
+    "avg_extraction_time": 0.07604420862346513,
+    "worker_utilization": 5,
+    "rate_limit_incidents": 0
+  }
+}

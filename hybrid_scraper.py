@@ -903,8 +903,7 @@ def main():
     """Main execution"""
     
     companies = [
-        ("Bloomberg", "https://bloomberg.avature.net/careers"),
-        ("UCLA Health", "https://uclahealth.avature.net/careers"),
+        ("advocateaurorahealth", "https://advocateaurorahealth.avature.net/careers")
     ]
     
     all_jobs = []

@@ -1,0 +1,2 @@
+# Test URLs for the job details extractor
+https://advocateaurorahealth.avature.net/careers/JobDetail/Aurora-IL-United-States-Project-Manager-Information-Technology/7856

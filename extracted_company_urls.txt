@@ -1,0 +1,31 @@
+https://encompasshealth.avature.net/careers
+https://healthfirst.avature.net/careers
+https://koch.avature.net/careers
+https://kpmgireland.avature.net/careers
+https://maximus.avature.net/careers
+https://lenovo.avature.net/careers -- not hosted on avature
+https://plantemoran.avature.net/careers -- We are currently transitioning our job application site from Avature to Workday
+https://sandboxashfieldhealthcare.avature.net/careers --done
+https://qakoch.avature.net/careers -- done
+https://sandboxdelta.avature.net/careers -- done
+https://sandboxbnc.avature.net/careers --done
+https://monadelphous.avature.net/careers -- Error: external_redirect: Site redirected to non-Avature domain: https://jobs.monadelphous.com.au/careers
+https://mgl.avature.net/careers -- Error: external_redirect: Site redirected to non-Avature domain: https://jobs.monadelphous.com.au/careers
+https://sandboxwestrockta.avature.net/careers --done
+https://sandboxlululemoninc.avature.net/careers -- done
+https://sandboxdth.avature.net/careers --done
+https://tennet.avature.net/careers -- 2026-02-07 19:24:56,893 - ERROR - Site redirected to non-Avature domain: https://careers.tennet.eu/en_US/careers
+https://sandboxdelta2.avature.net/careers --done
+https://smurfitwestrockta.avature.net/careers -- misses some companies because pagination is unstable
+https://uatashfieldhealthcare.avature.net/careers --done
+https://steelcase.avature.net/careers -- ERROR - Site redirected to non-Avature domain: https://careers.steelcase.com/careers
+https://walmartsourcingeu.avature.net/careers -- no jobs
+https://tsmc.avature.net/careers -- Site redirected to non-Avature domain: https://careers.tsmc.com/en_US/careers
+https://uirevision.avature.net/careers -- done
+https://trip.avature.net/careers -- 2026-02-08 16:23:59,132 - INFO -   Strategy: external_redirect_detected
+https://sandboxmgl.avature.net/careers -- done
+https://voutiquetraining.avature.net/careers -- done
+https://voutiqueintegrations.avature.net/careers -- done
+https://westrockta.avature.net/careers -- done
+https://uatmgl.avature.net/careers -- done
+https://uatmonadelphous.avature.net/careers -- no jobs

@@ -1,0 +1,45 @@
+{
+  "extraction_summary": {
+    "timestamp": "2026-02-08T18:10:40.952527",
+    "input_file": "urls_all_companies_20260202_011851.txt",
+    "total_urls_processed": 37791,
+    "successful_extractions": 1721,
+    "failed_extractions": 36070,
+    "success_rate": "4.6%",
+    "duration": "2873.8 seconds"
+  },
+  "key_metrics": {
+    "jobs_with_full_descriptions": 1111,
+    "jobs_with_application_urls": 554,
+    "jobs_with_metadata": 43,
+    "unique_companies": 1
+  },
+  "top_failure_reasons": [
+    {
+      "error_type": "http_error",
+      "count": 35483,
+      "percentage": "98.4%"
+    },
+    {
+      "error_type": "access_forbidden",
+      "count": 584,
+      "percentage": "1.6%"
+    },
+    {
+      "error_type": "missing_title",
+      "count": 3,
+      "percentage": "0.0%"
+    }
+  ],
+  "company_breakdown": [
+    {
+      "company": "ally",
+      "jobs_extracted": 1721
+    }
+  ],
+  "recommendations": [
+    "Low success rate (<50%) - consider checking URL validity and server availability",
+    "Low description extraction rate - page structure may have changed",
+    "Low location extraction rate - review location selectors"
+  ]
+}

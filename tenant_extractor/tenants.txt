@@ -1,0 +1,8 @@
+bcg
+mail
+rocketchat
+smtp
+smtp1
+smtp2
+smtp3
+smtp4
