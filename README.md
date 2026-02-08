@@ -131,32 +131,6 @@ playwright install chromium
 
 ## What's Missing / Future Enhancements
 
-### 🔄 Advanced Features
-- [ ] **Real-time monitoring dashboard** - Web interface for tracking scraping progress
-- [ ] **Database integration** - Direct storage to PostgreSQL/MongoDB
-- [ ] **API endpoint** - REST API for triggering scrapes and retrieving data
-- [ ] **Scheduled execution** - Cron-like job scheduling for regular updates
-
-### 🛡️ Robustness Improvements  
-- [ ] **Enhanced anti-detection** - More sophisticated user agent rotation and request patterns
-- [ ] **Proxy rotation** - Support for proxy pools to handle IP-based rate limiting
-- [ ] **Content change detection** - Delta updates for existing job postings
-- [ ] **Data validation** - Schema validation for extracted job data
-- [ ] **AWS token generation** - Implement AWS SigV4 authentication for protected Avature sites
-- [ ] **OAuth flow handling** - Support for sites requiring OAuth authentication
-- [ ] **Session management** - Handle login-required sites with cookie/session persistence
-
-### 📊 Analytics & Monitoring
-- [ ] **Performance metrics dashboard** - Success rates, processing times, failure analysis
-- [ ] **Data quality metrics** - Field completion rates, duplicate detection
-- [ ] **Cost optimization** - Request minimization and bandwidth usage tracking
-
-### 🔧 Developer Experience
-- [ ] **Docker containerization** - Easy deployment and environment consistency
-- [ ] **Configuration management** - Environment-based settings and secrets management
-- [ ] **Unit test coverage** - Comprehensive testing suite for all components
-- [ ] **CI/CD pipeline** - Automated testing and deployment
-
 ## Technical Decisions & Architecture Notes
 
 ### Why Multi-Strategy Extraction?
